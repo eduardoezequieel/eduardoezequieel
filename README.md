@@ -1,4 +1,4 @@
-## 👋, Hello, this is Eduardo! :)
+## 👋, Hello, I'm Eduardo! :)
 
 > I like to develop interesting websites and learn new things.
 
