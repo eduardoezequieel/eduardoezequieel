@@ -9,8 +9,6 @@
 # Contact me
   [<img alt="Telegram Contact" src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/edu4rdorivera) 
 
- [<img alt="My Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/eduardxlr) 
-
 # Cool stuff that I learned to use
 [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2071F2?style=flat-square&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS) [<img alt="PHP" src="https://img.shields.io/badge/-PHP-7175AA?style=flat-square&logo=php&logoColor=white" />](https://www.php.net/) 
