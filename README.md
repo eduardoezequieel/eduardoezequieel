@@ -4,7 +4,6 @@
 
  - 18 years old.
  - English/Spanish
- - Working on *[CitigerProject](https://github.com/eduardxlr/CitigerProject)*, **[here's a video](https://www.youtube.com/watch?v=DRiEEdLJkF0&t=1s)** and **[some pictures](https://imgur.com/a/Ldtp3lh)** showing what we do with my team (Spanish).
 
 # Contact me
   [<img alt="Telegram Contact" src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/edu4rdorivera) 
