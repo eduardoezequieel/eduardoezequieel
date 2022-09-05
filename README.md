@@ -6,7 +6,7 @@
  - English/Spanish
 
 # Contact me
-  [<img alt="Telegram Contact" src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/edu4rdorivera) 
+  [<img alt="Telegram Contact" src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/eduardoezequieel) 
 
 # Cool stuff that I learned to use
 [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
