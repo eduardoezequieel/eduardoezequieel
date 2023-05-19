@@ -23,6 +23,8 @@ Hey! It's great to have you here. These are some projects I've worked on my free
 [<img alt="Burger Creator" src="https://img.shields.io/badge/-Burger Creator-060913?style=for-the-badge&logo=burgerking&logoColor=white" />](https://applaudo-week-5.vercel.app/home/0) 
 [<img alt="GitHub API App" src="https://img.shields.io/badge/-Github API App-33B270?style=for-the-badge&logo=github&logoColor=white" />](https://applaudo-week-7-second-challenge.vercel.app/) 
 
+[<img alt="Journal App" src="https://img.shields.io/badge/-Journal%20App-323EE2?style=for-the-badge&logo=notion&logoColor=white" />](https://journal-app-react-woad.vercel.app/) 
+
 # Public projects
 These are some public websites where I've worked.
 
